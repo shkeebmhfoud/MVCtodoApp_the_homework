@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCtodoApp_the_homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2da4a854e2ee5aeb6836f278007e48e5d655d6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCtodoApp_the_homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCtodoApp_the_homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

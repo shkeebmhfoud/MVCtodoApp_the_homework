@@ -17,7 +17,6 @@ C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\MVCtodoApp_the_homewor
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\scopedcss\bundle\MVCtodoApp_the_homework.styles.css
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\scopedcss\projectbundle\MVCtodoApp_the_homework.bundle.scp.css
-C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\compressed\u3anaszc86-b9sayid5wm.gz
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\compressed\m67brx4oiz-61n19gt1b8.gz
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\compressed\kabl3uf7vg-xtxxf3hu2r.gz
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\compressed\emxn2dq2rm-bqjiyaj88i.gz
@@ -90,3 +89,5 @@ C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\refint\MVCtodoApp_the_
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\MVCtodoApp_the_homework.pdb
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\MVCtodoApp_the_homework.genruntimeconfig.cache
 C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\ref\MVCtodoApp_the_homework.dll
+C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\MVCtodoApp_the_homework.sourcelink.json
+C:\Users\SAMSUNG\MVCtodoApp_the_homework\obj\Debug\net9.0\compressed\u3anaszc86-j2c96po7m8.gz

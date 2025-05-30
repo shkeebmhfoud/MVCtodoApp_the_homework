@@ -50,5 +50,14 @@ namespace MVCtodoApp_the_homework.Controllers
                 task.IsComplete = true;
             return RedirectToAction("Index");
         }
+
+        public IActionResult EditTask(int id ,string newTitle)
+        {
+            var task = tasks.FirstOrDefault(t => t.Id == id);
+            if (task != null){
+                task.Title = newTitle;
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
